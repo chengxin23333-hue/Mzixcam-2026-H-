@@ -1,0 +1,14 @@
+id: gq
+name: 钢球
+version: 5.0.0
+author: zx
+icon: app.png
+desc: 钢球识别比赛版 5.0
+files:
+  - ball_module.py
+  - classic_ball_module.py
+  - communication.py
+  - config.py
+  - main.py
+  - receiver_page.py
+  - video_stream.py
