@@ -1,0 +1,14 @@
+id: gq
+name: 钢球识别
+version: 1.0.0
+author: zx
+icon: app.png
+desc: gqsb
+files:
+  - ball_module.py
+  - classic_ball_module.py
+  - communication.py
+  - config.py
+  - main.py
+  - receiver_page.py
+  - video_stream.py
